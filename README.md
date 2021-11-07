@@ -7,5 +7,7 @@ The main goal was to show my understanding in using an API. The functions being 
 
 # API Resourse Used
 OpenWeather
+
 https://api.openweathermap.org
+
 weatherApiKey = '429fca6d71196e663a915a810210a598'
