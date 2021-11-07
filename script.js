@@ -19,7 +19,7 @@ function renderSearchHistory() {
   searchHistoryContainer.innerHTML = '';
 
   // Start at end of history array and count down to show the most recent at the top.
-  for (var i = searchHistory.length - 1; i >= 0; i++) {
+  for (var i = searchHistory.length - 1; i >= 0; i--) {
     var btn = document.createElement('button');
     btn.setAttribute('type', 'button');
     btn.setAttribute('aria-controls', 'today forecast');
