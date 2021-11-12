@@ -4,6 +4,8 @@ The main goal was to show my understanding in using an API. The functions being 
 # Weather-Dashboard
 ![Weather-Dashboard-Demo](https://user-images.githubusercontent.com/87666809/140631374-37a94f72-92ed-4da3-a888-21c8a766c17f.png)
 
+Demo: https://kimah1999.github.io/Weather-Dashboard/
+
 
 # API Resourse Used
 OpenWeather
